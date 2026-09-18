@@ -1,7 +1,7 @@
 # Credit Card Financial Dashboard
 
 A Credit Card Financial Dashboard project designed to analyze customer spending, transactions, revenue, and key financial metrics using SQL and Power BI.
-
+![Credit Card Customer Dashboard](customer_dashboard.png)
 
 ## 📊 Project Overview
 
