@@ -7,6 +7,12 @@ A Credit Card Financial Dashboard project designed to analyze customer spending,
   <img src="customer_dashboard.png" alt="Credit Card Customer Dashboard" width="100%">
 </p>
 
+<h2 align="center">💳 Credit Card Transaction Dashboard</h2>
+
+<p align="center">
+  <img src="transaction_dashboard.png" alt="Credit Card Transaction Dashboard" width="100%">
+</p>
+
 ## 📊 Project Overview
 
 This project presents interactive Power BI dashboards for analyzing credit card customer and transaction data.
