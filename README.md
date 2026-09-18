@@ -89,6 +89,4 @@ The dashboard provides customer-level insights including revenue by gender, age 
 
 The dashboard provides transaction-level insights including revenue by expenditure type, card category, customer job, education, and transaction method.
 
-## 👨‍💻 Author
 
-Shivan Shukla
